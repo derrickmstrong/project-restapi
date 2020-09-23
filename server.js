@@ -1,5 +1,3 @@
-//Link to Tutorial: https://www.youtube.com/watch?v=vjf774RKrLc
-
 const express = require('express'),
   app = express(),
   mongoose = require('mongoose'),
